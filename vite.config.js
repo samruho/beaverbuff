@@ -5,7 +5,7 @@ export default defineConfig({
       port: 5173,
       strictPort: true,
       cors: {
-        origin: ['https://mydomain.com/'], // or true to allow all
+        origin: ['http://beaverbuffdetails.ca/'], // or true to allow all
       }
     }
   })
